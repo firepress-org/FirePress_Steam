@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    {{!-- FirePress_Steam --}}
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -19,10 +21,25 @@
 
     {{> theme-colors}}
 
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/styles/github.min.css">
     <link rel="stylesheet" href="{{asset "css/steam.css"}}">
 
+{{!-- CUSTOM ELEMENTS ADDED BY: https://twitter.com/askpascalandy SEE BELOW --}}
+
+	<!-- CSS Buttons (unicorn-ui) -->
+    <link rel="stylesheet" type="text/css" href="{{asset "css_firepress/css_unicorn/buttons.min.css"}}" />
+	
+	<!-- To Test - https://bulma.io/documentation/elements/button/ -->
+
+	{{!-- CSS Grid and Tables --}}
+    <link rel="stylesheet" type="text/css" href="{{asset "css_firepress/css_simplegrid/simplegrid.min.css"}}" />
+	
+	{{!-- CSS Icon via fontawesome 5 --}}
+	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js"></script>
+  	<script defer src="https://use.fontawesome.com/releases/v5.0.9/js/v4-shims.js"></script>
+      
+	{{!-- CUSTOM ELEMENTS ADDED BY: https://twitter.com/askpascalandy SEE ABOVE --}}
+    
     {{!> meta}}
     {{!> google-analytics}}
 
