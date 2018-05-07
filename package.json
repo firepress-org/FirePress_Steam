@@ -1,15 +1,15 @@
 {
     "name": "FirePress_Steam",
-    "description": "FirePress_Steam is a theme supported by FirePress. All details can be found at https://github.com/firepress-org/FirePress_Steam",
+    "description": "FirePress_Steam is a Ghost theme supported by FirePress. It's part of the Ghost-Theme-Curated-Collection. Find it at https://bit.ly/2HB6Fyu",
     "demo": "https://play-with-ghost.com/",
     "version": "2.0.1A",
+    "engines": {
+        "ghost": ">=1.0.0"
+    },
     "author": {
         "name": "Tommaso Barbato",
         "email": "epistrephein@gmail.com",
         "url": "https://github.com/epistrephein"
-    },
-    "engines": {
-        "ghost": ">=1.0.0"
     },
     "screenshots": {
         "desktop": "assets/screenshots/screenshot-desktop.jpg",
