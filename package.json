@@ -2,9 +2,7 @@
     "name": "FirePress_Steam",
     "description": "FirePress_Steam is a theme supported by FirePress. All details can be found at https://github.com/firepress-org/FirePress_Steam",
     "demo": "https://play-with-ghost.com/",
-    "homepage": "https://github.com/epistrephein/Steam",
-    "demo": "https://dev.epistrephe.in/Steam/",
-    "version": "2.0.1",
+    "version": "2.0.1A",
     "author": {
         "name": "Tommaso Barbato",
         "email": "epistrephein@gmail.com",
@@ -25,9 +23,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/epistrephein/Steam.git"
+        "url": "https://github.com/firepress-org/FirePress_Steam.git"
     },
-    "bugs": "https://github.com/epistrephein/Steam/issues",
+    "bugs": "https://github.com/firepress-org/FirePress_Steam/issues",
     "license": "MIT",
     "config": {
         "posts_per_page": 5
