@@ -1,6 +1,7 @@
 {
-    "name": "steam",
-    "description": "A clean and minimal theme for Ghost.",
+    "name": "FirePress_Steam",
+    "description": "FirePress_Steam is a theme supported by FirePress. All details can be found at https://github.com/firepress-org/FirePress_Steam",
+    "demo": "https://play-with-ghost.com/",
     "homepage": "https://github.com/epistrephein/Steam",
     "demo": "https://dev.epistrephe.in/Steam/",
     "version": "2.0.1",
