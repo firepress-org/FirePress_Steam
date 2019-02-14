@@ -17,6 +17,9 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&family=Open+Sans+Condensed:300|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
 
+    {{!-- Customisation by https://github.com/firepress-org --}}
+    {{>custom_header}}
+
     {{> theme-colors}}
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -44,12 +47,14 @@
         <div class="inner">
             {{> footer-social}}
             {{> footer-author}}
-            <section class="copyright">&copy; {{date format="YYYY"}} <a href="{{@blog.url}}">{{@blog.title}}</a>. All rights reserved</section>
-            <section class="theme"><a href="https://github.com/epistrephein/Steam" target="_blank" rel="noopener">Steam theme</a> by Tommaso Barbato</section>
+            <section class="copyright"><a href="{{@site.url}}">{{@site.title}}</a> &copy; {{date format="YYYY"}}.&nbsp;&nbsp;Driven by firepress.org and published with ghost.org</section>
         </div>
     </footer>
 
     {{ghost_foot}}
+
+    {{!-- Customisation by https://github.com/firepress-org --}}
+    {{>custom_footer}}
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/smooth-scroll/9.4.3/js/smooth-scroll.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/highlight.min.js"></script>
