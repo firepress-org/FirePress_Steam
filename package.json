@@ -1,8 +1,7 @@
 {
-    "name": "steam",
-    "description": "A clean and minimal theme for Ghost.",
-    "homepage": "https://github.com/epistrephein/Steam",
-    "demo": "https://dev.epistrephe.in/Steam/",
+    "name": "FirePress_Steam",
+    "description": "FirePress_Steam is a Ghost theme supported by FirePress. It's part of the Ghost-Theme-Curated-Collection. Find it at https://bit.ly/2HB6Fyu",
+    "demo": "https://play-with-ghost.com/",
     "version": "3.0.0",
     "author": {
         "name": "Tommaso Barbato",
@@ -12,6 +11,11 @@
     "engines": {
         "ghost": ">=2.1.0"
     },
+    "maintainer": {
+    "name": "Pascal Andy",
+    "email": "relations@firepress.org",
+    "url": "https://play-with-ghost.com/"
+    },
     "screenshots": {
         "desktop": "assets/screenshots/screenshot-desktop.jpg",
         "mobile": "assets/screenshots/screenshot-mobile.jpg"
@@ -19,17 +23,15 @@
     "keywords": [
         "ghost",
         "theme",
-        "ghost-theme",
-        "minimal",
-        "responsive"
+        "ghost-theme"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/epistrephein/Steam.git"
+        "url": "https://github.com/firepress-org/FirePress_Steam.git"
     },
-    "bugs": "https://github.com/epistrephein/Steam/issues",
+    "bugs": "https://github.com/firepress-org/FirePress_Steam/issues",
     "license": "MIT",
     "config": {
-        "posts_per_page": 5
+        "posts_per_page": 10
     }
 }
