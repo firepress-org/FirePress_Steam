@@ -1,8 +1,8 @@
 # Changelog
+Based on this template https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-All notable changes to this project will be documented in this file.  
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
+## 3.0.1 - 2019-02-14
 
 ## 3.0.0 - 2019-01-03
 [Release](https://github.com/epistrephein/Steam/releases/tag/v3.0.0) |
