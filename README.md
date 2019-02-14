@@ -63,15 +63,15 @@ In short, you can try Ghost on the spot without having to sign-up!
 
 <br>
 
-wip
+![firepress_steam_11](https://user-images.githubusercontent.com/6694151/52804762-0b35ba00-3053-11e9-85b9-b3b1e64cf3fd.jpeg)
 
 <br>
 
-wip
+![firepress_steam_12](https://user-images.githubusercontent.com/6694151/52804766-0d981400-3053-11e9-8f50-7cb9024fb033.jpeg)
 
 <br>
 
-wip
+![firepress_steam_13](https://user-images.githubusercontent.com/6694151/52804770-10930480-3053-11e9-85a3-6c95bc5878a2.jpeg)
 
 <br>
 
