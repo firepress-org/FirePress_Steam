@@ -4,6 +4,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 3.0.1 - 2019-02-14
 
+725f65a1 esthetic update
+41a95416 Add core FirePress customizations
+38a02047 changelog wip
+e6edf2a1 major README update / need screenshots
+94bbc6f8 add docs
+3e02b043 update package json info
+bbcfe571 update license
+c8bbbec8 rebase from source (v3.0.0)
+
 ## 3.0.0 - 2019-01-03
 [Release](https://github.com/epistrephein/Steam/releases/tag/v3.0.0) |
 [Diff](https://github.com/epistrephein/Steam/compare/v2.0.1...3.0.0)
