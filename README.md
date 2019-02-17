@@ -49,7 +49,7 @@ In short, you can try Ghost on the spot without having to sign-up!
 
 - **Drop-in replacement** — No special tweaks to do. It will work out of the box.
 - **Enhancements** — This theme has been enhanced to feature some elements that are not present in the original theme. IMHO, these elements are hard to live without.
-    - Buttons (three styles)
+    - Buttons
     - Icons (Font Awesome)
     - Code Syntax (highlight.js)
     - Tables (Grid) (great to make pricing table)
