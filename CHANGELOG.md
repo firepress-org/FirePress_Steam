@@ -1,16 +1,45 @@
-# Changelog
-Based on this template https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+# CHANGELOG.md - PROJECT_NAME
+
+All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+FirePress Public Roadmap:
+https://trello.com/b/0fCwwzqc/firepress-public-roadmap
+
+Based on this template:
+https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4
+
+## 0.0.0 status template
+### ⚡️ Updates
+### 🚀 Added (new feat.)
+### 🐛 Fix bug
+### 🛑 Removed
+### 🔑 Security
+
+---
+
+# Releases
+
+## 3.0.3
+### ⚡️ Updates
+- 9f8cb8f6 rm doc
+- 7fe85497 README update
+- 86c4c407 Added agate.css to better control how it renders
+- 9eab658e README update
+- 42960835 Major update in the way it looks AND updated highlight-js 9.14.2 AND updated Font Awesome 5.7.2
+- 2b54424a Simplify markdown example
+
+### 🐛 Fix bug
+- 5232e32c Fix button CSS styles. Makes them more universalè
 
 
 ## 3.0.2 - 2019-02-14
-
+### ⚡️ Updates
 122a6338 Added screenshots
 58ef4495 remove from footer / A BLOG BY AUTHOR NAME
 
 
 ## 3.0.1 - 2019-02-14
-
+### ⚡️ Updates
 725f65a1 esthetic update
 41a95416 Add core FirePress customizations
 38a02047 changelog wip
